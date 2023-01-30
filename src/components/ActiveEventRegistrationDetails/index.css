@@ -1,0 +1,9 @@
+.initial-view-container {
+}
+.initial-view-container-heading {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #64748b;
+  max-width: 120px;
+  text-align: center;
+}

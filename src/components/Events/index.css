@@ -1,0 +1,33 @@
+.events-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.event-items-outer-container {
+  background-color: #475569;
+  padding: 10px;
+  /* width: 50vw; */
+  max-width: 270px;
+}
+
+.events-container-heading {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.event-items-container {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 215px;
+}
+
+.active-event-registration-details-container {
+  padding: 10px;
+  max-width: 250px;
+  /* width: 50vw; */
+}
